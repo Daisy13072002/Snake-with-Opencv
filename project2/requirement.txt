@@ -1,0 +1,5 @@
+cvzone
+cv2
+numpy 
+math
+random
