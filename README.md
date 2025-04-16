@@ -9,3 +9,5 @@
 -	Check for collision:
     + End game
 
+"# Result#"
+![Kết quả game rắn](project2/result_pic.png)
